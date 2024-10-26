@@ -25,3 +25,11 @@ Morris's Algorithm is an efficient probabilistic technique for approximating the
 ```
 localhost:8080/morris?testTime=[customize test time]&countPerTest=[customize count per test]
 ```
+
+### Test Result
+
+Test time: 50
+
+Count per test: 1024
+
+![Morris algo test, test Time: 50, count per test: 1024](asset/morris/morrisTest_20241026_50_1024.png)
